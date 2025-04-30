@@ -3,7 +3,10 @@
 
 ## Project Overview
 
-This project implements and compares seven different time series forecasting models for predicting electricity load consumption 5 days ahead at a 15-minute resolution. It serves as an exploration into the effectiveness of various statistical and machine learning approaches for this critical task in power systems management.
+This project implements and compares seven different time series forecasting models to predict electricity load consumption 5 days ahead, at a 15-minute resolution. The aim is to explore the effectiveness of various statistical and machine learning approaches for the critical task of load forecasting in power systems management.
+Accurate load forecasting is crucial for optimizing power system operations, reducing costs, and ensuring grid stability. By evaluating both traditional statistical models and advanced machine learning techniques, this project provides a comprehensive analysis of their performance with real-world electricity consumption data.
+
+As a final year major project, this work is a collaborative effort by engineering students, applying theoretical knowledge to address a significant challenge in the energy sector. The comparative analysis of forecasting methods offers valuable insights for future developments in electricity load prediction.
 
 ## Models Implemented
 
